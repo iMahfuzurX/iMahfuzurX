@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Profile Image][https://avatars.githubusercontent.com/u/77329674?v=4]
-
 <!--
 **iMahfuzurX/iMahfuzurX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
